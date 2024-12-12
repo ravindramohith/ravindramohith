@@ -6,9 +6,12 @@
 
 <br/>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/AI-CV-red?style=flat-square&logo=googledocs&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/SDE-CV-red?style=flat-square&logo=googledocs&logoColor=white">
+<!-- <img alt="Static Badge" src="https://img.shields.io/badge/AI-CV-red?style=flat-square&logo=googledocs&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/SDE-CV-red?style=flat-square&logo=googledocs&logoColor=white"> -->
 
+<a href="https://ravindramohith.netlify.app/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Website-8A2BE2?style=flat-square&logo=webauthn&logoColor=white&logoSize=auto">
+</a>
 <a href="mailto:ravindramohith@gmail.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white&logoSize=auto">
 </a>
@@ -17,9 +20,6 @@
 </a>
 <a href="https://github.com/ravindramohith">
     <img alt="Static Badge" src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white">
-</a>
-<a href="https://ravindramohith.netlify.app/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Website-8A2BE2?style=flat-square&logo=webauthn&logoColor=white&logoSize=auto">
 </a>
 <a href="https://leetcode.com/u/the_last_uchiha/">
     <img alt="Static Badge" src="https://img.shields.io/badge/Leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=white">
@@ -38,8 +38,21 @@
 * 💻 Currently Seeking **Generative AI, Large Language Models**.
 
 * 💼 Work Experience:
-    - AI Research Intern @ [Mastercard AIG](https://www.mastercard.com/global/en/business/overview/ai-garage.html)
-    - FullStack AI Engineer @ [Crux AI (YC W24)](https://www.getcrux.ai/)
-    - SDE Intern @ [Mapit.ai](https://www.linkedin.com/company/mapit-ai/)
+    - 2024 | AI Research Intern @[Mastercard AIG](https://www.mastercard.com/global/en/business/overview/ai-garage.html)
+    - 2023 | FullStack AI Engineer @[Crux AI (YC W24)](https://www.getcrux.ai/)
+    - 2022 | SDE Intern @[Mapit.ai](https://www.linkedin.com/company/mapit-ai/)
 
+<!-- ```mermaid
+timeline
+    title History of Social Media Platform
+    2002 : LinkedIn
+    2004 : Facebook
+         : Google
+    2005 : Youtube
+    2006 : Twitter
+``` -->
 * 📚 Research Interests: **Generative AI, Computer Vision, Natural Language Processing**.
+
+
+
+### 🖥️ My Projects
