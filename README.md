@@ -120,9 +120,9 @@
 **My Github Stats**
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravindramohith&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravindramohith&theme=synthwave) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravindramohith&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ravindramohith&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravindramohith&theme=synthwave) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ravindramohith&theme=synthwave)
 </div>
 </details>
