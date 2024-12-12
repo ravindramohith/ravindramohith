@@ -112,8 +112,6 @@
 
 </td></tr> </table>
 
-</div>
-
 <details>
 <summary>📈 Stats</summary>
 <br>
@@ -124,3 +122,4 @@ My Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravindramohith&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ravindramohith&theme=dracula)
 </details>
+</div>
