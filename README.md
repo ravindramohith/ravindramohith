@@ -116,7 +116,9 @@
 <summary>📈 Stats</summary>
 <br>
 <div align="center">
-My Github Stats
+
+**My Github Stats**
+<br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravindramohith&theme=dracula) 
 
