@@ -46,7 +46,7 @@
 
 
 ### 🖥️ My Projects
-
+<div align="center">
 <table>
 <tr><th>AI Projects (CV & NLP)</th></tr>
 <tr><td>
@@ -111,3 +111,5 @@
 | [CacheSAT Enhancements](https://github.com/ravindramohith/Champsim) | ![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus) ![Cache](https://img.shields.io/badge/Cache-black?style=flat-square&logo=buffer) ![Cache Policies](https://img.shields.io/badge/Cache%20Policies-black?style=flat-square&logo=cachet) ![Memory Management](https://img.shields.io/badge/Memory%20Management-black?style=flat-square&logo=databricks) ![Computer Architecture](https://img.shields.io/badge/Computer%20Architecture-black?style=flat-square&logo=multisim) |
 
 </td></tr> </table>
+
+</div>
