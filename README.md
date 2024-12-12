@@ -111,15 +111,16 @@
 | [Stock Market Time-Series Data Analysis](https://github.com/ravindramohith/Data-Analysis-Projects/blob/main/Time%20Series%20Analysis%20(Stock%20Market%20Case%20Study)/stock_market_analysis.ipynb) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![Seaborn](https://img.shields.io/badge/Seaborn-black?style=flat-square&logo=python) ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=plotly) ![Plotly](https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly) |
 
 </td></tr> </table>
-
+</div>
 <details>
 <summary>📈 Stats</summary>
 <br>
+<div align="center">
 My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravindramohith&theme=dracula) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravindramohith&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ravindramohith&theme=dracula)
-</details>
 </div>
+</details>
