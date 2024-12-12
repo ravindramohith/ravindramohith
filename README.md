@@ -46,7 +46,7 @@
 
 
 ### 🖥️ My Projects
-<div align="center">
+<div color="red" align="center">
 <table>
 <tr><th>🤖 AI Projects (CV & NLP)</th></tr>
 <tr><td>
