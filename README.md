@@ -48,7 +48,7 @@
 ### 🖥️ My Projects
 <div align="center">
 <table>
-<tr><th>AI Projects (CV & NLP)</th></tr>
+<tr><th>🤖 AI Projects (CV & NLP)</th></tr>
 <tr><td>
 
 |Title | Technologies |
@@ -67,22 +67,7 @@
 </tr> </table>
 
 <table>
-<tr><th>Classical ML & DS Projects</th></tr>
-<tr><td>
-
-|Title | Technologies |
-|--|--|
-| SpectraCode | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![ScikitLearn](https://img.shields.io/badge/SciKit%20Learn-black?style=flat-square&logo=scikitlearn) ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=plotly) |
-| ClusterScope | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![ScikitLearn](https://img.shields.io/badge/SciKit%20Learn-black?style=flat-square&logo=scikitlearn) ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=plotly) |
-| Bagging & Boosting | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![ScikitLearn](https://img.shields.io/badge/SciKit%20Learn-black?style=flat-square&logo=scikitlearn) ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=plotly) |
-| [COVID-19 Analysis](https://github.com/ravindramohith/COVID19_Analysis) | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=plotly) ![Seaborn](https://img.shields.io/badge/Seaborn-black?style=flat-square&logo=python) ![Plotly](https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly) ![Folium](https://img.shields.io/badge/Folium-black?style=flat-square&logo=python) |
-| [Youtube Text Data Analysis](https://github.com/ravindramohith/Data-Analysis-Projects/tree/main/Text%20Data%20Analysis%20(Youtube%20Case%20Study)) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![Seaborn](https://img.shields.io/badge/Seaborn-black?style=flat-square&logo=python) ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=plotly) ![Plotly](https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly) |
-| [Stock Market Time-Series Data Analysis](https://github.com/ravindramohith/Data-Analysis-Projects/blob/main/Time%20Series%20Analysis%20(Stock%20Market%20Case%20Study)/stock_market_analysis.ipynb) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![Seaborn](https://img.shields.io/badge/Seaborn-black?style=flat-square&logo=python) ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=plotly) ![Plotly](https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly) |
-
-</td></tr> </table>
-
-<table>
-<tr><th>Development</th></tr>
+<tr><th>🌐 Development Projects</th></tr>
 <tr><td>
 
 |Title | Technologies |
@@ -98,7 +83,7 @@
 </td></tr></table>
 
 <table>
-<tr><th>Software Projects</th></tr>
+<tr><th>🖥️ Software Projects</th></tr>
 <tr><td>
 
 |Title | Technologies |
@@ -109,6 +94,21 @@
 | Railway Planner | ![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus) ![Data Structures](https://img.shields.io/badge/Data%20Structures-black?style=flat-square&logo=databricks) ![Algorithms](https://img.shields.io/badge/Algorithms-black?style=flat-square&logo=algolia) |
 | xv6 OS Optimization | ![C](https://img.shields.io/badge/C%20Language-black?style=flat-square&logo=c) ![OS](https://img.shields.io/badge/OS-black?style=flat-square&logo=multisim) ![Concurrency](https://img.shields.io/badge/Concurrency-black?style=flat-square&logo=codacy) ![Locking](https://img.shields.io/badge/Locking-black?style=flat-square&logo=clockify) ![Sync](https://img.shields.io/badge/Synchronization-black?style=flat-square&logo=syncthing) <br/> ![Memory](https://img.shields.io/badge/Memory%20Management-black?style=flat-square&logo=databricks) ![CPU](https://img.shields.io/badge/CPU%20Scheduling-black?style=flat-square&logo=stimulus) ![Files](https://img.shields.io/badge/File%20System-black?style=flat-square&logo=files) |
 | [CacheSAT Enhancements](https://github.com/ravindramohith/Champsim) | ![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus) ![Cache](https://img.shields.io/badge/Cache-black?style=flat-square&logo=buffer) ![Cache Policies](https://img.shields.io/badge/Cache%20Policies-black?style=flat-square&logo=cachet) ![Memory Management](https://img.shields.io/badge/Memory%20Management-black?style=flat-square&logo=databricks) ![Computer Architecture](https://img.shields.io/badge/Computer%20Architecture-black?style=flat-square&logo=multisim) |
+
+</td></tr> </table>
+
+<table>
+<tr><th>📊 Classical ML & DS Projects</th></tr>
+<tr><td>
+
+|Title | Technologies |
+|--|--|
+| SpectraCode | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![ScikitLearn](https://img.shields.io/badge/SciKit%20Learn-black?style=flat-square&logo=scikitlearn) ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=plotly) |
+| ClusterScope | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![ScikitLearn](https://img.shields.io/badge/SciKit%20Learn-black?style=flat-square&logo=scikitlearn) ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=plotly) |
+| Bagging & Boosting | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![ScikitLearn](https://img.shields.io/badge/SciKit%20Learn-black?style=flat-square&logo=scikitlearn) ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=plotly) |
+| [COVID-19 Analysis](https://github.com/ravindramohith/COVID19_Analysis) | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=plotly) ![Seaborn](https://img.shields.io/badge/Seaborn-black?style=flat-square&logo=python) ![Plotly](https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly) ![Folium](https://img.shields.io/badge/Folium-black?style=flat-square&logo=python) |
+| [Youtube Text Data Analysis](https://github.com/ravindramohith/Data-Analysis-Projects/tree/main/Text%20Data%20Analysis%20(Youtube%20Case%20Study)) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![Seaborn](https://img.shields.io/badge/Seaborn-black?style=flat-square&logo=python) ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=plotly) ![Plotly](https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly) |
+| [Stock Market Time-Series Data Analysis](https://github.com/ravindramohith/Data-Analysis-Projects/blob/main/Time%20Series%20Analysis%20(Stock%20Market%20Case%20Study)/stock_market_analysis.ipynb) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![Seaborn](https://img.shields.io/badge/Seaborn-black?style=flat-square&logo=python) ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=plotly) ![Plotly](https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly) |
 
 </td></tr> </table>
 
