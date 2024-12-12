@@ -48,7 +48,7 @@
 ### 🖥️ My Projects
 
 <table>
-<tr><th>AI Projects (CV & NLP)</th><th>Classical ML & DS Projects</th></tr>
+<tr><th>AI Projects (CV & NLP)</th></tr>
 <tr><td>
 
 |Title | Technologies |
@@ -63,7 +63,12 @@
 | [Feline-Canine Classifier](https://github.com/ravindramohith/Feline-Canine-Classifier) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) |
 | [POS Tagging](https://github.com/ravindramohith/POS-Tagging) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![ScikitLearn](https://img.shields.io/badge/SciKit%20Learn-black?style=flat-square&logo=scikitlearn) |
 | [Named Entity Recognition](https://github.com/ravindramohith/Named-Entity-Recognition) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![ScikitLearn](https://img.shields.io/badge/SciKit%20Learn-black?style=flat-square&logo=scikitlearn) ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=plotly) ![Gradio](https://img.shields.io/badge/Gradio-black?style=flat-square&logo=gradio) |
-</td><td>
+</td>
+</tr> </table>
+
+<table>
+<tr><th>Classical ML & DS Projects</th></tr>
+<tr><td>
 
 |Title | Technologies |
 |--|--|
@@ -77,7 +82,7 @@
 </td></tr> </table>
 
 <table>
-<tr><th>Development</th><th>Misc Projects</th></tr>
+<tr><th>Development</th></tr>
 <tr><td>
 
 |Title | Technologies |
@@ -90,7 +95,11 @@
 | [Natours Server](https://github.com/ravindramohith/JobSphere-jobsPortal) | ![Node.js](https://img.shields.io/badge/Node.JS-black?style=flat-square&logo=nodedotjs) ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb) ![Nodemon](https://img.shields.io/badge/Nodemon-black?style=flat-square&logo=nodemon) |
 | [News Web App](https://github.com/ravindramohith/Angular-news-web-app) | ![Angular](https://img.shields.io/badge/Angular-black?style=flat-square&logo=angular) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) |
 | [IMDB API Clone](https://github.com/ravindramohith/IMDB-API_clone) | ![Django](https://img.shields.io/badge/Django-black?style=flat-square&logo=django) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![SQLite](https://img.shields.io/badge/SQLite-black?style=flat-square&logo=sqlite) |
-</td><td>
+</td></tr></table>
+
+<table>
+<tr><th>Software Projects</th></tr>
+<tr><td>
 
 |Title | Technologies |
 |--|--|
