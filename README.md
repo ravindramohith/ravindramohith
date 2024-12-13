@@ -114,9 +114,6 @@
 </div>
 
 </details>
-<details>
-<summary>📈 Stats</summary>
-<br>
 <div align="center">
 
 **My Github Stats**
@@ -127,4 +124,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravindramohith&theme=synthwave) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ravindramohith&theme=synthwave)
 </div>
-</details>
