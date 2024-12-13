@@ -43,6 +43,7 @@
     - 2022 | SDE Intern @[Mapit.ai](https://www.linkedin.com/company/mapit-ai/)
 * 📚 Research Interests: **Generative AI, Computer Vision, Natural Language Processing**.
 
+---
 
 ## <summary>My Projects (View Details)</summary>
 <details>
@@ -114,6 +115,9 @@
 </div>
 
 </details>
+
+---
+
 <div align="center">
 
 **My Github Stats**
