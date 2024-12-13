@@ -44,8 +44,8 @@
 * 📚 Research Interests: **Generative AI, Computer Vision, Natural Language Processing**.
 
 
-
-### 🖥️ My Projects
+<details>
+<summary> 🖥️ My Projects </summary>
 <div color="red" align="center">
 <table>
 <tr><th>🤖 AI Projects (CV & NLP)</th></tr>
@@ -112,6 +112,8 @@
 
 </td></tr> </table>
 </div>
+
+</details>
 <details>
 <summary>📈 Stats</summary>
 <br>
