@@ -45,7 +45,7 @@
 
 
 <details>
-<summary> 🖥️ My Projects </summary>
+<summary> <h2>🖥️ My Projects</h2> </summary>
 <div color="red" align="center">
 <table>
 <tr><th>🤖 AI Projects (CV & NLP)</th></tr>
