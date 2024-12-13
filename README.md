@@ -38,9 +38,16 @@
 * 💻 Currently Seeking **Generative AI, Large Language Models**.
 
 * 💼 Work Experience:
-    - 2024 | AI Research Intern @[Mastercard AIG](https://www.mastercard.com/global/en/business/overview/ai-garage.html)
-    - 2023 | FullStack AI Engineer @[Crux AI (YC W24)](https://www.getcrux.ai/)
-    - 2022 | SDE Intern @[Mapit.ai](https://www.linkedin.com/company/mapit-ai/)
+<div align="center">
+
+|Year|Position|Company|Tech Stack|
+|:---:|:---:|:---:|:---:|
+|2024|AI Research Intern|[Mastercard AIG](https://www.mastercard.com/global/en/business/overview/ai-garage.html)|![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![GAN](https://img.shields.io/badge/GAN-black?style=flat-square&logo=pytorch) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Kaggle](https://img.shields.io/badge/Kaggle-black?style=flat-square&logo=kaggle)|
+|2023|FullStack AI Engineer|[Crux AI (YC W24)](https://www.getcrux.ai/)|![React](https://img.shields.io/badge/React.JS-black?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) ![Django](https://img.shields.io/badge/Django-black?style=flat-square&logo=django) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql) ![LLAMA](https://img.shields.io/badge/LLAMA-black?style=flat-square&logo=meta) ![GPT](https://img.shields.io/badge/GPT-black?style=flat-square&logo=openai) ![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square&logo=chainlink)|
+|2022|SDE Intern|[Mapit.ai](https://www.linkedin.com/company/mapit.ai/)|![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![React](https://img.shields.io/badge/React.JS-black?style=flat-square&logo=react) ![MUI](https://img.shields.io/badge/React_MUI-black?style=flat-square&logo=mui) ![Django](https://img.shields.io/badge/Django-black?style=flat-square&logo=django)|
+
+</div>
+
 * 📚 Research Interests: **Generative AI, Computer Vision, Natural Language Processing**.
 
 ---
