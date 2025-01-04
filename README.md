@@ -9,7 +9,7 @@
 <!-- <img alt="Static Badge" src="https://img.shields.io/badge/AI-CV-red?style=flat-square&logo=googledocs&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/SDE-CV-red?style=flat-square&logo=googledocs&logoColor=white"> -->
 
-<a href="https://ravindramohith.netlify.app/">
+<a href="https://ravindramohith.vercel.app/">
     <img alt="Static Badge" src="https://img.shields.io/badge/Website-8A2BE2?style=flat-square&logo=webauthn&logoColor=white&logoSize=auto">
 </a>
 <a href="mailto:ravindramohith@gmail.com">
