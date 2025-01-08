@@ -6,7 +6,7 @@
 </a> -->
 </a>
 
-<br/>
+<br>
 
 <!-- <img alt="Static Badge" src="https://img.shields.io/badge/AI-CV-red?style=flat-square&logo=googledocs&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/SDE-CV-red?style=flat-square&logo=googledocs&logoColor=white"> -->
@@ -32,7 +32,7 @@
 <!-- <a href="https://leetcode.com/u/the_last_uchiha/">
 <img src="https://leetcard.jacoblin.cool/the_last_uchiha" alt="">
 </a> -->
-<br/>
+<br>
 </p>
 
 
