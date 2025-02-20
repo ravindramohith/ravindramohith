@@ -28,10 +28,10 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=white">
 </a> -->
 ---
-<a href="https://github.com/ravindramohith" align="center">
+<!-- <a href="https://github.com/ravindramohith" align="center">
     <img src="https://github-stats-alpha.vercel.app/api?username=ravindramohith&cc=22272e&tc=08FDD8&ic=fd2155&bc=0000">
 </a>
-<!-- <a href="https://leetcode.com/u/the_last_uchiha/">
+<a href="https://leetcode.com/u/the_last_uchiha/">
 <img src="https://leetcard.jacoblin.cool/the_last_uchiha" alt="">
 </a> -->
 <br>
